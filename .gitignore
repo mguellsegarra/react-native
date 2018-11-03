@@ -65,4 +65,3 @@ package-lock.json
 *.js.meta
 
 /coverage
-/third-party
